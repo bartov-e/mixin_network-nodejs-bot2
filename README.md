@@ -1,5 +1,5 @@
 # Туториал по работе с Bitcoin через Node.js на базе Mixin Network
-С помощью данного туториала вы сможете создать бота для мессенджера Mixin. Это будет echo-бот на платформе Node.js, который сможет принимать Bitcoin от пользователей. 
+С помощью данного туториала вы сможете создать бота для мессенджера Mixin Messenger. Это будет echo-бот на платформе Node.js, который сможет принимать Bitcoin от пользователей. 
 
 Полный [каталог](https://github.com/awesome-mixin-network/index_of_Mixin_Network_resource) ресурсов по Mixin Network 
 
